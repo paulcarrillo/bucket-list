@@ -1,0 +1,16 @@
+body {
+  background-image: url("../images/boat.jpg");
+}
+
+.nav-wrapper {
+  background-color: #42f48f;
+}
+
+.btn {
+  background-color: #42f48f;
+}
+
+h3 {
+  color: white;
+
+}
